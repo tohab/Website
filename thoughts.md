@@ -1,10 +1,10 @@
 ---
 layout: page
-title: home
-permalink: /home/
+title: thoughts
+permalink: /thoughts/
 ---
 
-Hi! This is Rohan's website thingy magigger (majigger? who knows). I guess it's just a website. 
+*thoughts* is the place where I will keep all my writings. 
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 

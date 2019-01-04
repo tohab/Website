@@ -1,4 +1,11 @@
-### How I use this website
+---
+title: How i use this website
+author: Rohan Prasad
+date: 2019-01-03
+layout: post
+
+---
+
 
 This is both a test at uploading to the website, and a record for me of some things I should, and shouldn't do on it.
 

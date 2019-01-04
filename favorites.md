@@ -1,10 +1,10 @@
 ---
 layout: page
-title: home
-permalink: /home/
+title: favorites
+permalink: /favorites/
 ---
 
-Hi! This is Rohan's website thingy magigger (majigger? who knows). I guess it's just a website. 
+*favorites* is where my recommendations for other bloggers, doodlers, and thinkers will be.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: home
-permalink: /home/
+title: doodles
+permalink: /doodles/
 ---
 
-Hi! This is Rohan's website thingy magigger (majigger? who knows). I guess it's just a website. 
+*doodles* is the place where I will upload my programming sketches, drawings, poems, and other artwork I create.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
