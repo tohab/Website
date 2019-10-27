@@ -16,7 +16,7 @@ In fact, this can be very destructive. I myself have noticed my attention span g
 
 And so, I find it extremely important to take control of our minds. Our capacity to focus and be present is refined *only* when we are in completely in the real-world. A digital reality is not a reality at all, and any connections to the internet are potential sources of destruction for our lives.
 
-And yet I am hypocritical. I can't really bring myself to eliminate *all* technology from my life, but this coming week is a dip in the water of life. My version of Digital Minimalism, from Monday to Sunday, is to:
+And yet I am hypocritical. I can't really bring myself to eliminate *all* technology from my life, but this coming week is a dip in the water of life. My version of Digital Minimalism, from October 28th (Monday) to November 3rd (Sunday), is to:
 
 * Not use my smart-phone for a week
 * Only connect to internet on my laptop for 30 minutes each morning
