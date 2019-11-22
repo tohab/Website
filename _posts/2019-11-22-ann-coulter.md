@@ -1,5 +1,5 @@
 ---
-title: Dear Professor
+title: Ann Coulter, Cancel Culter, and Compassion
 author: Rohan Prasad
 date: 2019-11-22
 layout: post
