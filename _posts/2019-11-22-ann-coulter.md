@@ -15,7 +15,7 @@ And so, the argument goes, Ann Coulter should not be allowed on our campus. Now,
 
 On the one hand, she technically *does* have the right, at least in the US, to speak. No matter how vilely racist, one might say that she is protected by the "right" to Free Speech. This is, however, with a caveat: that her speech does not cause or incite violence against anyone else. You have the right to say, "I disagree with Trump," but not to say anything encouraging physical harm against him. And despite the horridness of her statements, Ann Coulter doesn't directly incite violence.
 
-On the other hand, one might extend this concept of *physical* violence to *emotional* violence. AC Berkeley, some claim, should be a sanctuary for marginalized groups -- a place for people to feel safe and unthreatened. Ann Coulter's words -- even if they are just words -- threaten minorities at this university, hearkening back to threats against Jews in the Holocausts. It is horrifyingly scary.
+On the other hand, one might extend this concept of *physical* violence to *emotional* violence. UC Berkeley, some claim, should be a sanctuary for marginalized groups -- a place for people to feel safe and unthreatened. Ann Coulter's words -- even if they are just words -- threaten minorities at this university, hearkening back to threats against Jews in the Holocausts. It is horrifyingly scary.
 
 So what's my issue? Why am I writing this post? My problem isn't one about vision; I believe in the same world that the anti-fascist protests were fighting for last night. I have an issue of approach -- that *shutting down* speakers with such forcefulness is simply not in line with the world of peace and tranquility that we are striving for.
 
