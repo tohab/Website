@@ -1,5 +1,5 @@
 ---
-title: Ann Coulter, Cancel Culter, and Compassion
+title: Ann Coulter, Cancel Culture, and Compassion
 author: Rohan Prasad
 date: 2019-11-22
 layout: post
@@ -9,7 +9,7 @@ layout: post
 *On November 22nd, 2019 the Berkeley College Republicans hosted Ann Coulter, a conservative commentator, on the UC campus. Several hundred students and anti-fascist protesters demonstrated before and during the speech. Police was called to prevent violence, and eventually 5 were arrested in the rally.*
 
 
-"Ann Coulter is a fascist" were the signs posted on Dwinelle Hall. Such a statement is widely agreed upon by most liberals -- statements like "why do we let people in wheelchairs become citizens? I feel sorry for cripples, but that doesn't mean I want them in my country.", or "I have to say I'm all for public flogging.", or "God gave us the earth. We have domino over the plants, the animals, the trees." Such blatantly discriminatory statements, statements marginalizing people in already-difficult circumstances... Statements that define who is superior, who is inferior, and defining is allowed to be a citizen. Such statements are akin to those made in Nazi Germany -- this is fascism in the extreme.
+"Ann Coulter is a fascist" were the signs posted on Dwinelle Hall. Such a statement is widely agreed upon by most liberals -- statements like "why do we let people in wheelchairs become citizens? I feel sorry for cripples, but that doesn't mean I want them in my country.", or "I have to say I'm all for public flogging.", or "God gave us the earth. We have dominion over the plants, the animals, the trees." Such blatantly discriminatory statements, statements marginalizing people in already-difficult circumstances... Statements that define who is superior, who is inferior, and defining is allowed to be a citizen. Such statements are akin to those made in Nazi Germany -- this is fascism in the extreme.
 
 And so, the argument goes, Ann Coulter should not be allowed on our campus. Now, this is where things get a little tricky.
 
